@@ -1,0 +1,27 @@
+.box1 {
+  width: 50%;
+  border: solid white;
+  border-width: 1px;
+
+  margin-bottom: 10px;
+  box-sizing: border-box;
+
+}
+
+.box2 {
+  width: 50%;
+  border: solid white;
+  border-width: 1px;
+
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
+
+.box3 {
+  width: 50%;
+  border: solid white;
+  border-width: 1px;
+
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
